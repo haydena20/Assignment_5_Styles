@@ -1,0 +1,18 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+a
+{ color:rgb(100, 32, 100); }
+body
+{ background-color: rgb(255, 235, 205); }
+p
+{ color:rgb(0, 0, 0); }
+em
+{ color:rgb(143,38,31); }
+b 
+{ color:rgb(199, 58, 222); }
+u
+{ background-color: orange; }
